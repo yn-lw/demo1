@@ -1,0 +1,19 @@
+server:
+  port: 8888
+  servlet:
+    context-path: /java001
+
+spring:
+   profiles:
+    active: test
+
+offcn_ip:
+         1.1.1.1
+offcn_port:
+           9999
+
+userbody:
+  name: ¾Å¾Å¾Å
+  age: 18
+  gender: ÄÐ
+
